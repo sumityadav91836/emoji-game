@@ -1,0 +1,11 @@
+/* Write your code here. */
+.emoji-btn {
+  height: 200px;
+  width: 200px;
+  border-radius: 25px;
+  background-color: #ffffff63;
+  margin: 10px 5px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
